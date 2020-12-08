@@ -224,7 +224,7 @@ DEPENDENCIES
   pry-byebug
   pry-rails
   puma (~> 5.1)
-  rack (>= 2.0.8)
+  rack (>= 2.2.2)
   rails
   redis
   rest-client
